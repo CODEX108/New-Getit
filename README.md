@@ -63,3 +63,11 @@ module.exports = {
   plugins: [require("daisyui")],
 };
 ```
+
+### Deployed on Netlify
+1. Authorize your Github account with Netlify.
+2. Select the repo to be deplyed
+3. Add the Environment variables 
+4. Select a custom domain
+5. Deploy your site after the build is successful !
+
