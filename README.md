@@ -15,6 +15,7 @@ Create React App is a comfortable environment for learning React, and is the bes
 npx create-react-app my-app
 cd my-app
 npm start
+==== starts the development server ===
 ```
 
 ### Setting Up Tailwind
