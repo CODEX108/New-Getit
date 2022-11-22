@@ -48,3 +48,18 @@ Add the @tailwind directives for each of Tailwind’s layers to your main CSS fi
 @tailwind components;
 @tailwind utilities;
 ```
+
+## 📀 Install now!
+
+```bash
+npm i daisyui
+```
+
+Then add daisyUI to your `tailwind.config.js`:  
+
+
+```js
+module.exports = {
+  plugins: [require("daisyui")],
+};
+```
