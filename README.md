@@ -10,6 +10,12 @@ A React app to search GitHub profiles and see profile details. This project is p
 
 
 ### Setting Up react app
+Create React App is a comfortable environment for learning React, and is the best way to start building a new single-page application in React.
+```
+npx create-react-app my-app
+cd my-app
+npm start
+```
 
 ### Setting Up Tailwind
 1. Install Tailwind CSS
