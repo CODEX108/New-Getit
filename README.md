@@ -5,7 +5,7 @@ A React app to search GitHub profiles and see profile details. This project is p
 - REACT JS
 - Axios
 - Tailwind CSS
-- Daisy UI
+- [Daisy UI (The most popular, free and open-source Tailwind CSS component library)](daisyui.com)
 - Netlify
 
 
