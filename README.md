@@ -64,6 +64,11 @@ module.exports = {
 };
 ```
 
+### Generating a personal token
+A Personal Access Token (PAT) can be used as an alternative of password to authenticate with GitHub when you’re performing a Git operation or API call with GitHub.
+Go to the the developer settings of your github account and slect the required option and generate a token.
+[Documentation](https://cloudaffaire.com/how-to-create-personal-access-token-in-github/)
+
 ### Deployed on Netlify
 1. Authorize your Github account with Netlify.
 2. Select the repo to be deplyed
