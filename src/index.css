@@ -6,3 +6,32 @@
   border-radius: 0.5rem;
   opacity: 0.45;
 }
+
+.paginationBtn {
+  width: 80%;
+  height: 30px;
+  list-style: none;
+  display:flex;
+  justify-content: center;
+}
+
+.paginationBtn a {
+  padding: 8px;
+  margin: 8px;
+  border-radius: 5px;
+  border: 1px solid #F675A8;
+  color: #F675A8;
+  cursor: pointer;
+}
+
+.paginationBtn a:hover {
+  color: white;
+  background-color: #F675A8;
+}
+
+.activeBtn a {
+  color: white;
+  background-color: #F675A8;
+}
+
+
