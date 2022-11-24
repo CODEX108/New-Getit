@@ -3,6 +3,7 @@ A React app to search GitHub profiles and see profile details.
 
 ## TECH STACK
 - REACT JS
+- Libraries -react-paginate 
 - Axios
 - Tailwind CSS
 - [Daisy UI (The most popular, free and open-source Tailwind CSS component library)](daisyui.com)
