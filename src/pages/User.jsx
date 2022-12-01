@@ -42,17 +42,11 @@ function User() {
     return <Spinner />
   }
 
-  // NOTE: check for valid url to users website
+ 
 
   const websiteUrl = blog?.startsWith('http') ? blog : 'https://' + blog
 
-  // NOTE: code here has been fixed so that stats no longer show scroll bar on
-  // mobile / small devices
-  // https://www.udemy.com/course/react-front-to-back-2022/learn/lecture/29768968#questions/16902278
-
-  // NOTE: if you are having problems with the name and login showing at the top
-  // of the image then you need the className='flex-grow-0' on the <p> tag
-  // default styling on <p> in daisyUI now has flex-grow-1
+ 
 
   return (
     <>
